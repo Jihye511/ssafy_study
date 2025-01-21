@@ -9,3 +9,6 @@
 |2|2|2|2|
 |swea비밀번호|1234|[내 풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D3/1234.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%8510%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8))|자바로 하면 런타임에러 나서 cpp로...|
 |swea농작물 수확하기|2805|[내 풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D3/2805.%E2%80%85%EB%86%8D%EC%9E%91%EB%AC%BC%E2%80%85%EC%88%98%ED%99%95%ED%95%98%EA%B8%B0)|이거도...|
+|영식이|1592|[ff](http://boj.kr/75472ea0e9f748cf86944bf890149138)|--------------------|
+|블랙잭|2798|[ff](http://boj.kr/748244b55b77467bbfc42c3bdffc71f2)|--------------------|
+|--|------|-------|--------------------|
