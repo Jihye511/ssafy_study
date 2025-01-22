@@ -12,3 +12,7 @@
 |영식이|1592|[ff](http://boj.kr/75472ea0e9f748cf86944bf890149138)|--------------------|
 |블랙잭|2798|[ff](http://boj.kr/748244b55b77467bbfc42c3bdffc71f2)|--------------------|
 |--|------|-------|--------------------|
+|ATM|11399|[11399](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)|--------------------|
+|단어 뒤집기2|17413|[17413](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/17413.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%852)|--------------------|
+
+
