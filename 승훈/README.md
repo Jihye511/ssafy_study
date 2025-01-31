@@ -16,7 +16,7 @@
 |단어 뒤집기2|17413|[17413](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/17413.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%852)|--------------------|
 |연휴|------|-------|--------------------|
 |1.31-2.1|------|-------|--------------------|
-|swea치즈도둑|7733|[](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7733.%E2%80%85%EC%B9%98%EC%A6%88%E2%80%85%EB%8F%84%EB%91%91)|--------------------|
+|swea치즈도둑|7733|[7733](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7733.%E2%80%85%EC%B9%98%EC%A6%88%E2%80%85%EB%8F%84%EB%91%91)|--------------------|
 
 
 
