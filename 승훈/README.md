@@ -18,7 +18,7 @@
 |색종이|2563|[색종이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4)|-|
 |swea안경이 없어!|7272|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D3/7272.%E2%80%85%EC%95%88%EA%B2%BD%EC%9D%B4%E2%80%85%EC%97%86%EC%96%B4%EF%BC%81)||
 |직사각형을 만드는 방법|8320|[-](http://boj.kr/6ef023cd125841d08c68a6e5c971ff38)||
-|크로아티아 알파벳|7272|[-](http://boj.kr/fe7dbaa296c5430cab18d5ed8fcc160f)||
+|크로아티아 알파벳|2941|[-](http://boj.kr/fe7dbaa296c5430cab18d5ed8fcc160f)||
 |비밀이메일|2999|[-](http://boj.kr/1d73a773c70a49a49237524213d39471)||
 |1208|FlattenSWEA|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D3/1208.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85Flatten)||
 |1974|스도쿠 검증 ( 배열 연습 입문 ) 1	SWEA |[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D2/1974.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0%E2%80%85%EA%B2%80%EC%A6%9D)||  
