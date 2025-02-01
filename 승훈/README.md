@@ -1,5 +1,6 @@
 
-
+<details><summary>OLD STUFFs</summary>
+  
 |이름|문제번호|링크|설명|
 |--|------|-------|--------------------|
 |캐슬 디펜스|17135|[원래풀이](https://www.acmicpc.net/source/share/6594c1ed8a4a423e8dd5595ff68f3347)|원래풀이|
@@ -30,12 +31,20 @@
 |6485|삼성시의버스노선	SWEA   |[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D3/6485.%E2%80%85%EC%82%BC%EC%84%B1%EC%8B%9C%EC%9D%98%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EB%85%B8%EC%84%A0)||                  
 |1244|스위치 켜고 끄기 ( 제어문 기본 ) 3	백준  |[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/1244.%E2%80%85%EC%8A%A4%EC%9C%84%EC%B9%98%E2%80%85%EC%BC%9C%EA%B3%A0%E2%80%85%EB%81%84%EA%B8%B0)||  
 |2164|카드2 Queue	백준|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2)||
-|색종이2|백준 |[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EF%BC%8D%E2%80%852)||                                   
+|색종이2|백준 |[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EF%BC%8D%E2%80%852)||   
+</details>
+
+<details><summary>1.31-2.1</summary>
+  
+|이름|문제번호|링크|설명|
+|--|------|-------|-------|
 |1.31-2.1|------|-------|--------------------|
 |swea치즈도둑|7733|[7733](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7733.%E2%80%85%EC%B9%98%EC%A6%88%E2%80%85%EB%8F%84%EB%91%91)|--------------------|
 |4963|섬의 개수|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/4963.%E2%80%85%EC%84%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)||
 |2206|벽부수고 이동하기|[3차원배열 풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||
 |4193|swea|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/4193.%E2%80%85%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C%E2%80%85%EA%B2%B0%EC%8A%B9%EC%A0%84%E2%80%85%EF%BC%88%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%EF%BC%8B%E2%80%85%EA%B5%AC%ED%98%84%E2%80%85%EF%BC%89)||
+</details>
+
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
 |정올 별삼각형3|7272|[-]()||
