@@ -42,7 +42,8 @@
 |swea치즈도둑|7733|[7733](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7733.%E2%80%85%EC%B9%98%EC%A6%88%E2%80%85%EB%8F%84%EB%91%91)|--------------------|
 |4963|섬의 개수|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/4963.%E2%80%85%EC%84%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)||
 |2206|벽부수고 이동하기|[3차원배열 풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)||
-|4193|swea|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/4193.%E2%80%85%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C%E2%80%85%EA%B2%B0%EC%8A%B9%EC%A0%84%E2%80%85%EF%BC%88%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%EF%BC%8B%E2%80%85%EA%B5%AC%ED%98%84%E2%80%85%EF%BC%89)||
+|4193|swea수영대회 결승전|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/4193.%E2%80%85%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C%E2%80%85%EA%B2%B0%EC%8A%B9%EC%A0%84%E2%80%85%EF%BC%88%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%EF%BC%8B%E2%80%85%EA%B5%AC%ED%98%84%E2%80%85%EF%BC%89)||
+|7699|수지의 수지맞는 여행|[dfs풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7699.%E2%80%85%EC%88%98%EC%A7%80%EC%9D%98%E2%80%85%EC%88%98%EC%A7%80%E2%80%85%EB%A7%9E%EB%8A%94%E2%80%85%EC%97%AC%ED%96%89)|bfs로 하면 터지네|
 </details>
 
 <!--|정올 별삼각형1|7272|[-]()||
