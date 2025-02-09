@@ -10,17 +10,17 @@ public class BOJ_16922_로마숫자만들기 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
         visited = new boolean[4];
-        dfs(0,0);
+        dfs(0,0,0);
         System.out.println(set.size());
     }
-    public static void dfs(int depth,int v){
+    public static void dfs(int start,int depth,int v){
         if(depth ==n){
             set.add(v);
             return;
         }
-        for(int i =0; i<4; i++){
+        for(int i =start; i<4; i++){
 
-            dfs(depth+1, v+num[i]);
+            dfs(i,depth+1, v+num[i]);
         }
     }
 
