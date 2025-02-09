@@ -54,7 +54,9 @@
   |--|------|-------|-------|
   |15686|치킨배달|[---](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC)|--------------------|
   |16973|직사각형 탈출|[---](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/16973.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%ED%83%88%EC%B6%9C)|--------------------|
-  |||||
+  |16922|로마 숫자 만들기|[---](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/16922.%E2%80%85%EB%A1%9C%EB%A7%88%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)|-----|
+  |2468|안전영역|[--](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD)||
+  |7569|토마토|[----](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/7569.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0)||
 </details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
