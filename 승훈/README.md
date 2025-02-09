@@ -46,6 +46,16 @@
 |7699|수지의 수지맞는 여행|[dfs풀이](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/SWEA/D4/7699.%E2%80%85%EC%88%98%EC%A7%80%EC%9D%98%E2%80%85%EC%88%98%EC%A7%80%E2%80%85%EB%A7%9E%EB%8A%94%E2%80%85%EC%97%AC%ED%96%89)|bfs로 하면 터지네|
 </details>
 
+<details>
+  
+  <summary>2.6</summary>
+  
+  |문제번호|이름|링크|설명|
+  |--|------|-------|-------|
+  |15686|치킨배달|[---](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC)|--------------------|
+  |16973|직사각형 탈출|[---](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/16973.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%ED%83%88%EC%B6%9C)|--------------------|
+  |||||
+</details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
 |정올 별삼각형3|7272|[-]()||
