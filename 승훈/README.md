@@ -58,6 +58,13 @@
   |2468|안전영역|[--](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD)||
   |7569|토마토|[----](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/7569.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0)||
 </details>
+<details>
+  <summary>2.10-</summary>
+
+  |문제번호|이름|링크|설명|
+  |--|-----|-------|-------|
+  |17070|파이프 옮기기1|[--](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/17070.%E2%80%85%ED%8C%8C%EC%9D%B4%ED%94%84%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0%E2%80%851)|bottom-up, dp, 더러운풀이...|
+</details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
 |정올 별삼각형3|7272|[-]()||
