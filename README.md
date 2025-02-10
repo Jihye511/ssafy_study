@@ -76,3 +76,10 @@ A형 취득
 |2/8-2/9|BOJ|로마 숫자 만들기 16922 ,안전영역 2468, 토마토 7569|
 
 </details>
+
+<details>
+  <summary>4주차</summary>
+
+   [A형 기출](https://seasoned-peripheral-395.notion.site/A-196aa43d3dea8025a57fe34a03e0a795?pvs=4)
+
+</details>
