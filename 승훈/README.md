@@ -64,6 +64,7 @@
   |문제번호|이름|링크|설명|
   |--|-----|-------|-------|
   |17070|파이프 옮기기1|[--](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/17070.%E2%80%85%ED%8C%8C%EC%9D%B4%ED%94%84%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0%E2%80%851)|bottom-up, dp, 더러운풀이...|
+  |17281|야구|[--](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/17281.%E2%80%85%E2%9A%BE)|----|
 </details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
