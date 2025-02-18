@@ -9,3 +9,11 @@
 # 커밋 - [플랫품]-문제번호
 
 예: [BOJ]-1592
+
+# 복습할 문제들
+
+1. [백준 17472 다리 만들기 2](https://www.acmicpc.net/problem/17472)
+
+2. [SWEA 1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
+
+3. [SWEA 1949 등산로 조성하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
