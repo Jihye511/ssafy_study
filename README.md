@@ -93,5 +93,10 @@ A형 취득
 |~2/17|SWEA|1949 등산로 조정, 1767 프로세스 연결하기|
 |2/18||시험 화이팅 ^_^|
 
+19일부터는 아래 노션에 해당하는 날짜 문제로 업로드 해주세요!
+
+ [강사님 문제2](https://seasoned-peripheral-395.notion.site/2-18caa43d3dea80de8f2eeea4c9adbb83)
+
+
 
 </details>
