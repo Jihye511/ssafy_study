@@ -69,6 +69,13 @@
   |16637|괄호 추가하기|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/16637.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)|i hate implementation|
   |17472|게리멘더링|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/17471.%E2%80%85%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81)||
 </details>
+<details>
+  <summary>2.19 - </summary>
+
+  |문제번호|이름|링크|설명|
+  |--|------|-------|-----|
+  |1012|유기농배추|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94)||
+</details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
 |정올 별삼각형3|7272|[-]()||
