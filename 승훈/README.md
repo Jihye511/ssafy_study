@@ -75,6 +75,7 @@
   |문제번호|이름|링크|설명|
   |--|------|-------|-----|
   |1012|유기농배추|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94)||
+  |16926|배열돌리기 1|[-](https://github.com/phantomsquid0928/HELLGORITHM/tree/main/%EB%B0%B1%EC%A4%80/Gold/16926.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%851)||
 </details>
 <!--|정올 별삼각형1|7272|[-]()||
 |정올 별삼각형2|7272|[-]()||
