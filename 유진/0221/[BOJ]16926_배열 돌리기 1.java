@@ -1,55 +1,58 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class Main {
+	static int N, M;
+	static int[][] map;
+	static int[] dy = {0, 1, 0, -1};
+	static int[] dx = {1, 0, -1, 0};
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int T = Integer.parseInt(br.readLine());
-		for(int test_case = 1; test_case <= T; test_case++) {
-			StringTokenizer st = new StringTokenizer(br.readLine());
-			int N = Integer.parseInt(st.nextToken());
-			int M = Integer.parseInt(st.nextToken());
-			
-			int[][] map = new int[N][N];
-			
-			for(int i = 0; i < N; i++) {
-				st = new StringTokenizer(br.readLine());
-				for(int j = 0; j < N; j++) {
-					map[i][j] = Integer.parseInt(st.nextToken());
-				}
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		int R = Integer.parseInt(st.nextToken());
+
+		map = new int[N][M];
+		for(int i = 0; i < N; i++) {
+			st = new StringTokenizer(br.readLine());
+			for(int j = 0; j < M; j++) {
+				map[i][j] = Integer.parseInt(st.nextToken());
 			}
-			
-			int[][] sum = new int[N][N];
-			
-			for(int i = 0; i < N; i++) {
-				for(int j = 0; j < N; j++) {
-					sum[i][j] = map[i][j];
-					if(i > 0) sum[i][j] += sum[i-1][j];
-					if(j > 0) sum[i][j] += sum[i][j-1];
-					if(i > 0 && j > 0) sum[i][j] -= sum[i-1][j-1];
-				}
-			}
-			
-			int ans = 0;
-			
-			for(int i = 0; i <= N-M; i++) {
-				for(int j = 0; j <= N-M; j++) {
-					int tmp = sum[i+M-1][j+M-1];
-					if(i > 0) {
-						tmp -= sum[i-1][j+M-1];
-					}
-					if(j > 0) {
-						tmp -= sum[i+M-1][j-1];
-					}
-					if(j > 0 && i > 0) {
-						tmp += sum[i-1][j-1];
-					}
-					ans = Math.max(ans, tmp);
-				}
-			}
-			System.out.println("#"+test_case+" "+ans);
 		}
+
+		for(int i = 0; i < R; i++) {
+			for(int r = 0, c = 0; r < N/2 && c < M/2; r++, c++) {
+				rotate(r, c);
+			}
+		}
+
+		StringBuilder sb = new StringBuilder();
+		for(int i = 0; i < N; i++) {
+			for(int j = 0; j < M; j++) {
+				sb.append(map[i][j]+" ");
+			}
+			sb.append('\n');
+		}
+		System.out.println(sb);
+	}
+
+	static void rotate(int y, int x) {
+		int start = map[y][x];
+		int[] range = {M-x*2, N-y*2};
+
+		for(int d = 0; d < 4; d++) {
+			for(int i = 0; i < range[d%2]-1; i++) {
+				int ny = y + dy[d];
+				int nx = x + dx[d];
+				map[y][x] = map[ny][nx];
+				y = ny;
+				x = nx;
+			}
+		}
+		map[y+1][x] = start;
 	}
 }
